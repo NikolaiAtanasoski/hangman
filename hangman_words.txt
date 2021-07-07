@@ -1,0 +1,4 @@
+{
+  "Pokemon" : [ "Bisasam", "Pikachu", "Giflor", "Shiggy", "Glumanda" ],
+  "Software Entwicklung" : [ "Java", "Bash", "Python" ]
+}
